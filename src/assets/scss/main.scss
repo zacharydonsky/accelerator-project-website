@@ -47,6 +47,7 @@
 
 	body {
 		background: _palette(bg);
+		// background: white;
 
 		&.is-loading {
 			*, *:before, *:after {

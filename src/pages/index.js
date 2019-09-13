@@ -45,16 +45,33 @@ class HomeIndex extends React.Component {
 
                     <section id="one">
                         <header className="major">
-                            <h2>Free coding lessons for people who aren't good at computers and want to be good</h2>
+                            <h2>The Accelerator Program is a grassroots initiative which aims to help homeless and at-risk youth escape the cycle of poverty by helping them to access employment opportunities in tech.</h2>
                         </header>
-                        <p>The accelerator project was founded by Thomas Accelerator in 1851. He sought a way to teach coding, but do it for free for some reason he himself didn't understand. By the time he was 12, Thomas had already time-traveled to the year 2000 to defeat neo-hitler and save the world. He adopted a dog, settled down at the ripe age of 175, and became captain of vegetables.
+                        <p>The Accelerator Project is designing a pilot program which includes:
+                        <br /><br />
+                          <ul>
+                            <li><b>Skills training</b> to equip participants with specific in-demand tech skills</li>
+                            <li><b>Access to the right wrap-around supports</b> such as shelter, financial support for education, life skills training that a participant might need so that they can focus on their learning</li>
+                            <li><b>Access to the tech job market</b> through internships, mentorship, and community networks</li>
+                          </ul>
+                          Our goal is to pilot our program with interested delivery partners from both the tech sector (employers) and the social service sector (non-profit agencies, government, etc.).  
+                          The Accelerator Team’s role is to develop the pilot program using evidence-based, human centred design that can be implemented with interested delivery partners.
                         </p>
 
                     </section>
 
+                    <section id="two">
+                      <header className="major">
+                        <h2>Events</h2>
+                        <p>
+                        <b>July-September 2019:</b> Our team provides drop-in coding lessons each Saturday from 2-5 p.m at St. Felix (69 Fraser Avenue).
+                        </p>
+                      </header>
+                    </section>
+
                     <section id="three">
                         <h2>Get In Touch</h2>
-                        <p>We're friendly and won't kill you. For sure. Promise.</p>
+                        <p>We are a volunteer-based team of public servants, programmers, designers, researchers and other professionals who are passionate about empowering homeless youth through education.</p>
                         <div className="row">
                             <div className="8u 12u$(small)">
                                 <form method="post" action="#">

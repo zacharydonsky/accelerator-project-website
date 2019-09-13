@@ -45,16 +45,17 @@ class HomeIndex extends React.Component {
 
                     <section id="one">
                         <header className="major">
-                            <h2>The Accelerator Program is a grassroots initiative which aims to help homeless and at-risk youth escape the cycle of poverty by helping them to access employment opportunities in tech.</h2>
+                            <h2>The Accelerator Program is a grassroots initiative which aims to help homeless and at-risk youth escape the cycle of poverty by helping them to use tech skills to advance their employment, entrepreneurship, and personal goals.</h2>
                         </header>
                         <p>The Accelerator Project is designing a pilot program which includes:
                         <br /><br />
                           <ul>
                             <li><b>Skills training</b> to equip participants with specific in-demand tech skills</li>
                             <li><b>Access to the right wrap-around supports</b> such as shelter, financial support for education, life skills training that a participant might need so that they can focus on their learning</li>
-                            <li><b>Access to the tech job market</b> through internships, mentorship, and community networks</li>
+                            <li><b>Access to the tech job market and other opportunites</b> through internships, mentorship, and community networks</li>
                           </ul>
-                          Our goal is to pilot our program with interested delivery partners from both the tech sector (employers) and the social service sector (non-profit agencies, government, etc.).  
+                          Our goal is to pilot our program with interested delivery partners from both the tech sector (including employers), government and the social service sector.  
+                          <br /> <br />
                           The Accelerator Team’s role is to develop the pilot program using evidence-based, human centred design that can be implemented with interested delivery partners.
                         </p>
 
@@ -63,15 +64,22 @@ class HomeIndex extends React.Component {
                     <section id="two">
                       <header className="major">
                         <h2>Events</h2>
-                        <p>
-                        <b>July-September 2019:</b> Our team provides drop-in coding lessons each Saturday from 2-5 p.m at St. Felix (69 Fraser Avenue).
+                        <p><b>July-September 2019:</b> Our team provides drop-in coding lessons each Saturday from 2-5 p.m at St. Felix (69 Fraser Avenue).
+                        </p>
+                      </header>
+                      <header className="major">
+                        <h2>Past Events</h2>
+                        <p><b>November 27, 2018:</b> Conducted consultation & co-design session with 20+ stakeholders from across the private, public, and non-profit sectors to identify potential barriers to youth employment and laid the groundwork for future consultations, research, and co-creation.
                         </p>
                       </header>
                     </section>
 
                     <section id="three">
-                        <h2>Get In Touch</h2>
-                        <p>We are a volunteer-based team of public servants, programmers, designers, researchers and other professionals who are passionate about empowering homeless youth through education.</p>
+                        <h2>Who we Are</h2>
+                        <p>We are a volunteer-based team of public servants, programmers, designers, researchers and other professionals who are passionate about empowering homeless youth through education.
+                        <br /><br />
+                        <h3>Get In Touch</h3>
+                        If you would like to volunteer, partner, or donate, please contact us here.</p>
                         <div className="row">
                             <div className="8u 12u$(small)">
                                 <form method="post" action="#">

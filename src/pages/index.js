@@ -70,6 +70,8 @@ class HomeIndex extends React.Component {
                       <header className="major">
                         <h2>Past Events</h2>
                         <p><b>November 27, 2018:</b> Conducted consultation & co-design session with 20+ stakeholders from across the private, public, and non-profit sectors to identify potential barriers to youth employment and laid the groundwork for future consultations, research, and co-creation.
+                        <br /><br />
+                        You can read about the results of our consultation <a href="https://github.com/zacharydonsky/accelerator-project-website/raw/master/src/assets/images/Accelerator%20Consultation%20Results%20-%2027-Nov-2018.pdf">by downloading this pdf</a>.
                         </p>
                       </header>
                     </section>

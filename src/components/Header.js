@@ -12,7 +12,6 @@ class Header extends React.Component {
                     <h1><strong><b>Accelerator Project</b></strong> <br />Empowerment <br />
                     through Tech Skills Training</h1>
                 </div>
-
             </header>
         )
     }
